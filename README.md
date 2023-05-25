@@ -1,22 +1,27 @@
-# {Event name}
+# Careers with Python: Volume 2
+### Level: Beginner
 
 ## Meetup description
-This meetup is all about {meetup topic description}.
+This meetup is the second volume of the "Careers with Python" series that aims to guide you through the various career paths and opportunities available to you as a Python developer
 
-### Talk 1 - {Name of the talk}
+### Talk 1 - Python in Agricultural Technology by Neha Kalia
 
-{Talk description}
+During this talk, you will hear about how software engineers and data scientists use python to support agriculture and food production. We'll look at areas where technology has played in a role in disrupting the world of farming, and zoom into use cases where python is especially useful
 
-The presentation can be find [here](link). {The repo with code [here](link).}
+The presentation can be found [here](/presentations/). 
 
-### Talk 2 - {Name of the talk}
+### Talk 2 - Python in banking by Sharanya Missula
 
-{Talk description}
+During the talk you will learn about how python is used in the banking sector, more specifically in risk modelling.
 
-The presentation can be find [here](link). {The repo with code [here](link).}
+The presentation can be found [here](/presentations/). 
+
+### Talk 3 - TBD
+
+The presentation can be found [here](/presentations/). 
 
 ## Video record
-Re-watch [this YouTube stream](link)
+Re-watch YouTube stream [here](https://www.youtube.com/live/KO4jeWoP9bI)
 
 ## Credits
-This event was set up by @pyladiesams, {Github handlers}
+This event was set up by @pyladiesams and 
