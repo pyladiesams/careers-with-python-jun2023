@@ -16,7 +16,8 @@ During the talk you will learn about how python is used in the banking sector, m
 
 The presentation can be found [here](/presentations/). 
 
-### Talk 3 - TBD
+### Talk 3 - Python in Data science and strategy consulting by Estelle Altazin
+During the talk you will get an overview of the data science and software engineering we are delivering in strategy consulting, with an example of a real-time train dispatching tool developed for a major European railway.
 
 The presentation can be found [here](/presentations/). 
 
@@ -24,4 +25,4 @@ The presentation can be found [here](/presentations/).
 Re-watch YouTube stream [here](https://www.youtube.com/live/KO4jeWoP9bI)
 
 ## Credits
-This event was set up by @pyladiesams and 
+This event was set up by @pyladiesams, @nehalicious and @altazine
